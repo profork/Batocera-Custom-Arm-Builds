@@ -10,7 +10,6 @@ Aethersx2 and other addons available in https://github.com/profork/profork
 
 
 
-
-
+----
 
 Thanks to Batocera Team for original work. https://github.com/batocera-linux/batocera.linux
