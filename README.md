@@ -8,4 +8,9 @@ You can either flash a new image to MicrosSD card as usual or copy boot.tar.xz t
 
 Aethersx2 and other addons available in https://github.com/profork/profork
 
+
+
+
+
+
 Thanks to Batocera Team for original work. https://github.com/batocera-linux/batocera.linux
