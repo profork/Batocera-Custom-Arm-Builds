@@ -7,3 +7,5 @@ You can either flash a new image to MicrosSD card as usual or copy boot.tar.xz t
 * Added: ODIN2 and ODIN2 Portal builds with Flatpak and RPCS3 enabled (v42 butterfly)
 
 Aethersx2 and other addons available in https://github.com/profork/profork
+
+Thanks to Batocera Team for original work. https://github.com/batocera-linux/batocera.linux
