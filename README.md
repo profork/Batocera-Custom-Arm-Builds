@@ -8,7 +8,7 @@ You can either flash a new image to MicrosSD card as usual or copy boot.tar.xz t
 
 Aethersx2, Portmaster and other addons available in https://github.com/profork/profork
 
-*Cemu does not work on Batocera for Odin2.  Use Rocknix for build in Aethersx2,  Cemu and the Rocknix Uzucore build if you want that other emulator too
+*Cemu does not work on Batocera for Odin2.  Use Rocknix for built in Aethersx2,  Cemu and the Rocknix Uzucore build if you want that other emulator too
 
 
 ----
