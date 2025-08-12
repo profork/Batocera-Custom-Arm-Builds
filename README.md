@@ -4,6 +4,9 @@ Custom Batocera builds with extra features enabled
 You can either flash a new image to Micro SD card as usual or copy boot.tar.xz to `/userdata/system/upgrade` and then run `batocera-upgrade manual` from ssh/terminal
 
 🚀Recents:
+
+* Added RK3588 Devices with Flatpak enabled.  Orange Pi variants, Rock board Variants, Gameforce Ace, and more boards.
+
 * Added RPI3 v42 butterfly with F1 menu, Flatpak and xwayland enabled. (v42 builds have flaky HDMI audio..need to toggle to different device and back to reset)
     * -Should help increase compatibility for some portmaster games and flatpak apps.  Don't expect youtube beyond 480p though. Still slow performance.
    
