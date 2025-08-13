@@ -5,6 +5,8 @@ You can either flash a new image to Micro SD card as usual or copy boot.tar.xz t
 
 🚀Recents:
 
+* Added Raspberry Pi4 with Flatpak Enabled.
+
 * Added Raspberry Pi5 with Flatpak and Visual Pinball enabled.
   
 * Added RK3588 Devices with Flatpak enabled.  Orange Pi 5 variants, Rock board Variants, Gameforce Ace, and more boards.
