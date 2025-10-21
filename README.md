@@ -4,6 +4,7 @@ Custom Batocera builds with extra features enabled
 You can either flash a new image to Micro SD card as usual or copy boot.tar.xz to `/userdata/system/upgrade` and then run `batocera-upgrade manual` from ssh/terminal
 
 🚀Recents:
+* Added BatleXP G350 build v43-dev
 
 * Added Raspberry Pi4 with Flatpak Enabled.
 
