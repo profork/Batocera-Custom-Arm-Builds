@@ -8,14 +8,18 @@ You can either flash a new image to Micro SD card as usual or copy boot.tar.xz t
 
      * This build uses BSD Kernel 4.4.189, drm/kms with mali-G31 blobs.  If you need Mainline Kernel, Toggleable panfrost/libmali, wayland/xwayland, ROCKNIX -- https://github.com/profork/ROCKNIX-apps/tree/main/batlexpg350 is available.
 
-* Added Raspberry Pi4 with Flatpak Enabled.
 
-* Added Raspberry Pi5 with Flatpak and Visual Pinball enabled.
+---
+V42 butterfly
+
+* Raspberry Pi4 with Flatpak Enabled.
+
+* Raspberry Pi5 with Flatpak and Visual Pinball enabled.
   
-* Added RK3588 Devices with Flatpak enabled.  Orange Pi 5 variants, Rock board Variants, Gameforce Ace, and more boards.  Use Rocknix for PS2 (Aethersx2) and
+* RK3588 Devices with Flatpak enabled.  Orange Pi 5 variants, Rock board Variants, Gameforce Ace, and more boards.  Use Rocknix for PS2 (Aethersx2) and
   better gpu performance via libmail drivers (Rocknix can toggle between panfrost and libmali--even some portmaster games work better.) 
 
-* Added RPI3 v42 butterfly with F1 menu, Flatpak and xwayland enabled. (v42 builds have flaky HDMI audio..need to toggle to different device and back to reset)
+* RPI3 v42 butterfly with F1 menu, Flatpak and xwayland enabled. (v42 builds have flaky HDMI audio..need to toggle to different device and back to reset)
     * -Should help increase compatibility for some portmaster games and flatpak apps.  Don't expect youtube beyond 480p though. Still slow performance.
    
 
