@@ -40,5 +40,6 @@ V42 butterfly
 ----
 
 Thanks to Batocera & Knulli Teams for original work.
-https://github.com/batocera-linux/batocera.linux
-https://github.com/knulli-cfw/distribution
+
+* https://github.com/batocera-linux/batocera.linux
+* https://github.com/knulli-cfw/distribution
