@@ -39,4 +39,6 @@ V42 butterfly
 ## Aethersx2, Portmaster and other addons available in https://github.com/profork/profork ##
 ----
 
-Thanks to Batocera Team for original work. https://github.com/batocera-linux/batocera.linux
+Thanks to Batocera & Knulli Teams for original work.
+https://github.com/batocera-linux/batocera.linux
+https://github.com/knulli-cfw/distribution
