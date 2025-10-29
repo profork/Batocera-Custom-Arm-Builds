@@ -6,7 +6,7 @@ You can either flash a new image to Micro SD card as usual or copy boot.tar.xz t
 🚀Recents:
 * Added BatleXP G350 build v43-dev
 
-     * This build uses BSD Kernel 4.4.189, drm/kms with mali-G31 blobs.  If you need Mainline Kernel, Toggleable panfrost/libmali, wayland/xwayland, ROCKNIX -- https://github.com/profork/ROCKNIX-apps/tree/main/batlexpg350 is available.
+     * This build uses BSP Kernel 4.4.189, drm/kms with mali-G31 blobs.  If you need Mainline Kernel, Toggleable panfrost/libmali, wayland/xwayland, ROCKNIX -- https://github.com/profork/ROCKNIX-apps/tree/main/batlexpg350 is available.
      * Sideload Portmaster via ssh `curl -L bit.ly/profork0 | bash`
      * Low Volume fix script via ssh `curl -L bit.ly/profork0 | bash`
      * Source: https://github.com/profork/batocera.linux/tree/g350
