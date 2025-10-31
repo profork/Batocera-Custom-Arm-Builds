@@ -50,7 +50,7 @@ V42 butterfly
 
 ## Aethersx2, BOX64/Wine, Portmaster and other addons available in https://github.com/profork/profork ##
 ----
-## CUSTOM BUILDS ARE NOT SUPPORTED BY BATOCERA'S TEAM OR DISCORD. DO NOT REQUEST SUPPORT ON THEIR DISCORD/REDDIT FORUMS.  USE AT YOUR OWN RISK.
+## CUSTOM BUILDS ARE NOT SUPPORTED BY BATOCERA'S TEAM. DO NOT REQUEST SUPPORT ON THEIR DISCORD/REDDIT FORUMS.  USE AT YOUR OWN RISK.
 
 Thanks to Batocera & Knulli Teams for original work.
 
