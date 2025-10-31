@@ -4,6 +4,16 @@ Custom Batocera builds with extra features enabled
 You can either flash a new image to Micro SD card as usual or copy boot.tar.xz to `/userdata/system/upgrade` and then run `batocera-upgrade manual` from ssh/terminal
 
 🚀Recents:
+
+* Added Powkiddy-X55 v43 Alpha build with flatpak enabled
+
+     * This build uses mainline kernel + panfrost drivers
+     * Known issues
+         1. Controller needs manual mapping
+         2. Controllers don't work in some standlone emulators
+         3. Flatpak parser doesn't generate launchers in ports. You will need to make .sh launcher files manually
+         4. The Low volume script fix (in this repos files)  can be added to custom_service in ~/services custom_service to fix low maximum volume
+
 * Added BatleXP G350 build v43-dev
 
      * This build uses BSP Kernel 4.4.189, drm/kms with mali-G31 blobs.  If you need Mainline Kernel, Toggleable panfrost/libmali, wayland/xwayland, ROCKNIX -- https://github.com/profork/ROCKNIX-apps/tree/main/batlexpg350 is available.
