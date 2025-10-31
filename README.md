@@ -10,7 +10,7 @@ You can either flash a new image to Micro SD card as usual or copy boot.tar.xz t
      * This build uses mainline kernel + panfrost drivers
      * Known issues
          1. Controller needs manual mapping
-         2. Controllers don't work in some standlone emulators
+         2. Controllers don't work in some standlone emulators or ports. 
          3. Flatpak parser doesn't generate launchers in ports. You will need to make .sh launcher files manually
          4. The Low volume script fix (in this repos files)  can be added to custom_service in ~/services custom_service to fix low maximum volume
 
