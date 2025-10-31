@@ -45,6 +45,7 @@ V42 butterfly
 
 *Cemu does not work on Batocera for Odin2.  Use ROCKNIX for built in Aethersx2 or the addon in link below. For Portmaster 64 bits apps, use the add-on link below or ROCKNIX.  For Portmaster 32 bit games, Wine/Box64 and Cemu use ROCKNIX.  Use the  ROCKNIXK Uzucore build if you want that other emulator too.
 
+---
 
 ## Aethersx2, BOX64/Wine, Portmaster and other addons available in https://github.com/profork/profork ##
 ----
