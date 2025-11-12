@@ -5,7 +5,7 @@ You can either flash a new image to Micro SD card as usual or copy boot.tar.xz t
 
 🚀Recents:
 
-* Updated: Added Powkiddy-X55 v43 ~~Alpha~~ Beta build with flatpak enabled. Portmaster Installer is included in Ports. Portmaster starts on second launch attempt.
+* Updated: Added Powkiddy-X55 v43 ~~Alpha~~ Beta build with flatpak enabled & Box64. Portmaster Installer is included in Ports. Portmaster starts on second launch attempt.
 
      * This build uses mainline kernel + mesa panfrost drivers
      * Known issues
