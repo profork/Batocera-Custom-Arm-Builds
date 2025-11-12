@@ -5,15 +5,15 @@ You can either flash a new image to Micro SD card as usual or copy boot.tar.xz t
 
 🚀Recents:
 
-* Updated: Added Powkiddy-X55 v43 Alpha v2 build with flatpak enabled. Portmaster Installer is included in Ports. Portmaster starts on second launch attempt.
+* Updated: Added Powkiddy-X55 v43 ~~Alpha~~ Beta build with flatpak enabled. Portmaster Installer is included in Ports. Portmaster starts on second launch attempt.
 
      * This build uses mainline kernel + mesa panfrost drivers
      * Known issues
     
-         1. Flatpak parser doesn't generate launchers in ports. You will need to make .sh launcher files manually
-         2. Loading Splash video is slow fps -- can turn off in settings.
-         3. Doesn't charge while powered off if batocera SD card is inside. Either remove or charge powered on.
-         4. v43 labwc windows manager defaults portmaster and flatpak apps to windowed mode.
+        ~~1. Flatpak parser doesn't generate launchers in ports. You will need to make .sh launcher files manually~~
+         ~~2. Loading Splash video is slow fps -- can turn off in settings.~~
+         ~~3. Doesn't charge while powered off if batocera SD card is inside. Either remove or charge powered on.~~
+         ~~4. v43 labwc windows manager defaults portmaster and flatpak apps to windowed mode.~~
             
 * Added BatleXP G350 build v43-dev
 
