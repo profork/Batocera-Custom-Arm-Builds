@@ -5,7 +5,7 @@ You can either flash a new image to Micro SD card as usual or copy boot.tar.xz t
 
 🚀Recents:
 
-* Added Rpi45 v43 build with Visual Pinball + Flatpak enabled & Portmaster Installer (untested)
+* Added Rpi5 v43 build with Visual Pinball + Flatpak enabled & Portmaster Installer (untested)
 
 * Added Rpi4 v43 build with Flatpak enabled and Portmaster Installer (untested)
 
